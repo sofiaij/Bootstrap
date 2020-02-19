@@ -39,29 +39,27 @@ Pada Latihan bootstrap card mempelajari tentang cara membuat card image dan card
 
 Pada Latihan navigation bar mempelajari tentang cara membuat navigasi bar dengan posisi on top dan ber kategori danger serta menambahkan gambar pada posisi kiri atasnya
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b61.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b6%201.PNG)
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b62.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b6%202.PNG)
 
 # Latihan Bootstrap Slider
 
 Pada Latihan bootstrap slider mempelajari tentang cara membuat slideshow dari beberapa gambar yang telah kita tambahkan pada file HTML
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b71.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b7%201.PNG)
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b72.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b7%202.PNG)
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b73.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b7%203.PNG)
 
 # Latihan Bootstrap Modal
 
 Pada Latihan bootstrap modal mempelajari tentang cara membuat tombol responsive dengan nama modal , tombol tersebut terdiri dari tombol danger , info , dan successful sehingga apabila di click maka akan memunculkan informasi sesuai dengan halaman atau content 
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b81.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b8%201.PNG)
 
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b82.PNG)
-
-![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b83.PNG)
+![Alt text](https://github.com/sofiaij/Bootstrap/blob/master/b8%202.PNG)
 
 # Latihan Bootstrap Table 
 
